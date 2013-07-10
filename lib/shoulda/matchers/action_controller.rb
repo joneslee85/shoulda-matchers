@@ -22,7 +22,7 @@ module Shoulda
     #
     #     it { should respond_with(:success) }
     #     it { should render_template(:show) }
-    #     it { should not_set_the_flash) }
+    #     it { should not_set_the_flash }
     #
     #     it 'does something else really cool' do
     #       assigns[:user].id.should == 1
